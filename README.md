@@ -6,7 +6,7 @@
 - 📫 How to reach me: zumarraga.daniel.014@gmail.com or VanLeidan5858#7455 on Discord App
 - 🗣️ I'm speak Spanish and a little English
 
--Spanish:
+- Spanish:
 - 👋 Hola, soy @VanLeidan5858
 - 👀 Me interesa programar como hobby
 - 🌱 Actualmente estoy aprendiendo Python
